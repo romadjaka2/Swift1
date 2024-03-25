@@ -1,0 +1,13 @@
+let firstname : String = "РОМАН"
+let lastname : String = "БЫКОВ"
+let Birthdate = "17.09.2001"
+let age : Int = 22
+let profession : String  = "ТЕХНИК"
+let stayplace : String = "Россия, Санкт-Петербург"
+
+print("Имя: \(firstname)")
+print("Фамилия: \(lastname)")
+print("Дата рождения: \(Birthdate)")
+print("Возраст: \(age)")
+print("Профессия: \(profession)")
+print("Место проживания: \(stayplace)")
